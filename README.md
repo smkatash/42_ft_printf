@@ -8,8 +8,8 @@ Re-implementation of printf()
 	This project consists of coding a library that contains a simplified version (more
 	information below) of the printf function.
 
-- Following conversions are handled:
-
+## Following conversions are handled:
+> _
 - %c Prints a single character.
 - %s Prints a string (as defined by the common C convention).
 - %p The void * pointer argument has to be printed in hexadecimal format.
@@ -22,7 +22,7 @@ Re-implementation of printf()
 - Manage any combination of the following flags: ’-0.’ and the field minimum width
 under all conversions.
 - Manage all the following flags: ’# +’ (Yes, one of them is a space)
-
+_
 
 ## 🛠️ Usage
 
