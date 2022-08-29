@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_convert_string.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ktashbae <ktashbae@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ktashbae <ktashbae@student.42heilbronn.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/13 18:29:01 by ktashbae          #+#    #+#             */
-/*   Updated: 2022/04/14 00:04:30 by ktashbae         ###   ########.fr       */
+/*   Updated: 2022/08/29 17:47:57 by ktashbae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../ft_printf.h"
 
 static char	*ft_strcpy_prec(const char *s, size_t size)
 {

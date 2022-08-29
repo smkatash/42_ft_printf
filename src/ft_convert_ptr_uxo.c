@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_convert_ptr_uxo.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ktashbae <ktashbae@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ktashbae <ktashbae@student.42heilbronn.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/12 22:37:32 by kanykei           #+#    #+#             */
-/*   Updated: 2022/04/13 17:01:43 by ktashbae         ###   ########.fr       */
+/*   Updated: 2022/08/29 17:47:55 by ktashbae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../ft_printf.h"
 
 void	ft_convert_uxo(t_format *tab, t_placeholder *holder, char *base)
 {
