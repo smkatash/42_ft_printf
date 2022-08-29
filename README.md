@@ -1,6 +1,13 @@
 # 42_ft_printf
 Re-implementation of printf()
 
+## 💡 About the project
+
+> _This project is pretty straight forward. You will recode printf. You will mainly learn how to use variadic arguments._
+
+	This project consists of coding a library that contains a simplified version (more
+	information below) of the printf function.
+
 - Following conversions are handled:
 
 - %c Prints a single character.
@@ -15,3 +22,29 @@ Re-implementation of printf()
 - Manage any combination of the following flags: ’-0.’ and the field minimum width
 under all conversions.
 - Manage all the following flags: ’# +’ (Yes, one of them is a space)
+
+
+## 🛠️ Usage
+
+### Requirements
+
+The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+
+### Instructions
+
+**1. Compiling the library**
+
+To compile, go to the library path and run:
+
+```shell
+$ make
+```
+
+**2. Using it in your code**
+
+To use the library functions in your code, simply include its header:
+
+```C
+#include "ft_printf.h"
+```
+
