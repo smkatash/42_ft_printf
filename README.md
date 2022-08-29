@@ -45,4 +45,5 @@ To use the library functions in your code, simply include its header:
 ```C
 #include "ft_printf.h"
 ```
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/76934648/187242121-44dd175a-5f27-4c82-a995-bf5adb7e0656.png">
 
