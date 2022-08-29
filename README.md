@@ -9,8 +9,7 @@ Re-implementation of printf()
 	information below) of the printf function.
 
 ## Following conversions are handled:
-> _
-- %c Prints a single character.
+> - %c Prints a single character.
 - %s Prints a string (as defined by the common C convention).
 - %p The void * pointer argument has to be printed in hexadecimal format.
 - %d Prints a decimal (base 10) number.
