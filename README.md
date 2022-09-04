@@ -24,7 +24,7 @@ Re-implementation of printf()
 under all conversions.
 > - Manage all the following flags: ’# +’ (Yes, one of them is a space)._
 
-## 🛠️ Usage
+## Usage
 
 ### Requirements
 
